@@ -15,7 +15,7 @@ function App() {
         <Header />
         <Routes>
           <Route path="/" element={<Homepage />} exact />
-//           <Route path="/coins/:id" element={<CoinPage />} />
+  {/* <Route path="/coins/:id" element={<CoinPage />} /> */}
         </Routes>
       </Box>
     </BrowserRouter>
